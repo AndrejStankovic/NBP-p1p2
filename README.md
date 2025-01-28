@@ -8,7 +8,7 @@ Cassandra ce se koristiti kao distribuirani servis koji ce cuvati veliki broj za
 Tema 1. projekta
 Aplikacija koja ce omoguciti pamcenje i izmenu informacija o korisnicima pretplatnickih aplikacija. 
 Pamtiti pretplatu koju imaju kod provider-a i mogucnost izmene. 
-Redis ce se koristiti kao distribuirani lock prilikom iznajmljivanja opreme korisnicima.
+Redis ce se koristiti kao distribuirani lock prilikom iznajmljivanja opreme korisnicima i cuvace sifre dostupne opreme.
 
 
 Cassandra:
